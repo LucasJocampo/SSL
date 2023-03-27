@@ -1,2 +1,2 @@
 # SSL
-Compilador utilizado: Extension C/C++ for Visual Studio Code
+Compilador utilizado: Mingw for Visual Studio Code
