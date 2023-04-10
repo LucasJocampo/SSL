@@ -1,2 +1,4 @@
 # SSL
-Compilador utilizado: Mingw for Visual Studio Code
+Nombre: Lucas Jorge Ocampo
+Curso ssl: K2051 
+Año: 2023
