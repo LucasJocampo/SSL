@@ -1,1 +1,2 @@
-Trabajo 0: hello.c , output.txt
+Compilador utilizado: Mingw for Visual Studio Code
+
