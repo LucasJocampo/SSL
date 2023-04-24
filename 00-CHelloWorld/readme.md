@@ -1,8 +1,8 @@
-Compilador utilizado: Mingw for Visual Studio Code  <br />
+# Compilador: <br />
 
-Hipotesis del trabajo:  A partir de este trabajo tendramos una introduccion a lo basico de c, ademas de aprender el funcionamiento del compilador elegido. <br />
+Mingw for Visual Studio Code  <br />
 
-Equipo nro: 8 <br />
+# Autor: <br />
 
 Usuario github: LucasJocampo <br />
 
@@ -12,10 +12,13 @@ Apellido: Ocampo <br />
 
 Nombre: Lucas Jorge <br />
 
+#  Trabajo
+
 Numero y titulo trabajo: Trabajo #0 (Individual): §3. “Hello, World” en C <br />
 
-Enunciado trabajo:
-#  "Hello, World!" en C
+Hipotesis del trabajo:  A partir de este trabajo tendremos una introduccion a lo basico de c, ademas de aprender el funcionamiento del compilador elegido. <br />
+
+# Enunciado trabajo: "Hello, World!" en C
 ```
 3.1. Objetivos
 • Demostrar capacidad para editar, compilar, y ejecutar programas C mediante
